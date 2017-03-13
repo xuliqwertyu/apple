@@ -1,0 +1,28 @@
+{
+  "name": "my-c",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://code.aliyun.com/walkingin/CyyAPP.git"
+  },
+  "author": "xl",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "sha1": "^1.1.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.5",
+    "gulp": "^3.9.1",
+    "gulp-browser-sync": "0.0.4",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-stylus": "^2.6.0",
+    "gulp-uglify": "^2.0.0"
+  }
+}
